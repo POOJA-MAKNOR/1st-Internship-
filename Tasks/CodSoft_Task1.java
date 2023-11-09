@@ -1,4 +1,6 @@
 //CODSOFT - Task 1
+//NUMBER GAME
+
 import java.util.Scanner;
 public class NumberGame {
     public static void main(String args[]) {
