@@ -1,4 +1,5 @@
-//CODESOFT (Task 2) - ATM INTERFACE
+//CODESOFT -Task 2 
+//ATM INTERFACE
 
 import java.util.Scanner;
 public class BankAccount
