@@ -1,4 +1,5 @@
 //CODSOFT - Task 3
+//Word Counter
 
 import java.util.*;
 import java.io.File;
